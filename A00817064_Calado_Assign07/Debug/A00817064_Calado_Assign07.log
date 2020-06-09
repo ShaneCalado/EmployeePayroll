@@ -1,0 +1,18 @@
+﻿  Employee.cpp
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\employee.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  A00817064_Calado_Assign07.vcxproj -> C:\Users\Abraxas\Desktop\A00817064_Calado_Assign07\Debug\A00817064_Calado_Assign07.exe
+  A00817064_Calado_Assign07.vcxproj -> C:\Users\Abraxas\Desktop\A00817064_Calado_Assign07\Debug\A00817064_Calado_Assign07.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  Employee.cpp
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\Employee.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\Employee.h(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\Employee.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abraxas\desktop\a00817064_calado_assign07\a00817064_calado_assign07\Employee.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+Employee.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Employee.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  5 of 272 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  A00817064_Calado_Assign07.vcxproj -> C:\Users\Abraxas\Desktop\A00817064_Calado_Assign07\Release\A00817064_Calado_Assign07.exe
